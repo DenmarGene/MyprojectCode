@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\ugh\ugh\bin\Debug\ugh.exe.config
+C:\Users\MSI\source\repos\ugh\ugh\bin\Debug\ugh.exe
+C:\Users\MSI\source\repos\ugh\ugh\bin\Debug\ugh.pdb
+C:\Users\MSI\source\repos\ugh\ugh\bin\Debug\ugh.xml
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.Form1.resources
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.Form2.resources
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.Resources.resources
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.exe
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.xml
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.pdb
+C:\Users\MSI\source\repos\ugh\ugh\obj\Debug\ugh.vbprojAssemblyReference.cache
